@@ -14,7 +14,7 @@ h1 {color: brown;
 }
 
 #texto-animado {font-size: 150%;
-                color:red;
+                color: black; #000
             }
 
 @keyframes animacao-texto {
