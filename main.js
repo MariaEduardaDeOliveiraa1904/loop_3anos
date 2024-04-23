@@ -7,7 +7,7 @@ function verificarTime() {
     var respostaTime = prompt("Qual a melhor marca?");
 
     
-    if (respostaTime.toLowerCase() === "Nike") {
+    if (respostaTime.toLowerCase() === "nike") {
       alert("Isso mesmo! A nike é a melhor marca!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
