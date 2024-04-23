@@ -15,3 +15,5 @@ function verificarTime() {
     }
   }
 }
+// Chamada da função para iniciar o processo
+verificarTime();
