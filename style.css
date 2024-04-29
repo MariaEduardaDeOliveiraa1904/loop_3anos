@@ -9,11 +9,11 @@ h1 {color: brown;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-100%, -100%);
     animation: animacao-texto 5s infinite alternate;
 }
 
-#texto-animado {font-size: 160%;
+#texto-animado {font-size: 140%;
                color:red; 
             }
 
