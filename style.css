@@ -35,4 +35,7 @@ h1 {color: brown;
     }
 }
 
-background-color: blue;
+body { 
+    background-color: var (--cor de fundo);
+    color: var (--branco);
+}
